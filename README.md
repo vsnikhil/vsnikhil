@@ -39,11 +39,3 @@ I'm a graduate student with about 3 years of experience in software development.
 
 ### Badges
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/vsnikhil/3d-character-animation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vsnikhil&repo=3d-character-animation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vsnikhil/morris-game-variant" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vsnikhil&repo=morris-game-variant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/vsnikhil/library-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vsnikhil&repo=library-management-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vsnikhil/library-ui" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vsnikhil&repo=library-ui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
